@@ -39,7 +39,7 @@ public class AutoITDemo {
 
 		// Below code for script editor : Go to Window search > type "Scit"
 
-		Runtime.getRuntime().exec("C:\\Users\\Mittal Parikh\\Desktop\\AutoIT_Files\\ScriptUpload2.exe");
+		Runtime.getRuntime().exec("C:\\Users\\Exam\\Desktop\\AutoIT_Files\\ScriptUpload1.exe");
 
 	}
 
